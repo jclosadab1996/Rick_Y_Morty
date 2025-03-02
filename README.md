@@ -144,4 +144,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ---
 
-Desarrollado con ❤️ por [Tu Nombre](https://github.com/jclosadab1996
+Desarrollado con ❤️ por [Juan Camilo Losada](https://github.com/jclosadab1996)
